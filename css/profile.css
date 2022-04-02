@@ -1,0 +1,26 @@
+.bode{
+    background-color: #f0156c;
+    padding-bottom: 500px;
+}
+
+.card{
+    width: 30rem;
+    justify-items: center;
+    margin: 10px auto;
+}
+
+.card-link{
+    text-decoration: none;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 5px;
+}
+#home{
+    margin-left: 30%;
+    color: red;
+
+}
+.list-group-item{
+    color: rgb(52, 52, 99);
+}
+

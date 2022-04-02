@@ -1,0 +1,35 @@
+.out
+{
+    background-color: rgb(206, 235, 198);
+    padding: 2px;
+    margin: 15px 20px;
+    height: 30px;
+    color:white;
+    }
+.in
+{
+    height: 26px;
+    background-color: #d6453a; 
+}
+
+.invested{
+    color: rgb(26, 0, 0);
+    margin-left: 40%;
+}
+
+#invest{
+    margin: 30px -0 30px -150%;
+}
+
+@media screen and (max-width: 520px) {
+    #invest{
+        margin-left: -10px;
+    }
+}
+  
+  @media screen and (max-width: 600px) {
+    #invest{
+        margin-left: -10px;
+    }
+  }
+  
