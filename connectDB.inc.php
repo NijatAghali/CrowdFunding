@@ -5,10 +5,10 @@
  $password="";
  $db="project";*/
 
- $host="mysql-alishanov.alwaysdata.net:3306";
- $user="alishanov_final";
- $password="Lokbatan123";
- $db="alishanov_final";
+ $host="";
+ $user="";
+ $password="";
+ $db="";
 
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 try {
