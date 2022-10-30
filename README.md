@@ -4,3 +4,4 @@ This is an investment project. There are projects that can be invested. This is 
 
 <br> If you want to use this code on your
 desktop you need to configure your database connection properly. Otherwise site will not work on your local machine.
+You can make the appropriate changes on 'connectDB.inc.php' file in order to run it on your machine.
